@@ -1,6 +1,6 @@
 body 
 {
-    background-color: black;
+    background: linear-gradient(to right, #91ff00ec, rgb(174, 130, 192));
     color: grey;
     font-family: Arial;
 }
@@ -14,12 +14,13 @@ h1
 .maindiv
 {
     background-color: beige;
-    color: burlywood;
+    color: rgb(8, 9, 66);
     width: 500px;
     padding: 30px;
     border-radius: 25px;
     margin-left: auto;
     margin-right: auto;
+    font-family: 'Lucida Sans',  sans-serif;
 }
 
 /* #result
